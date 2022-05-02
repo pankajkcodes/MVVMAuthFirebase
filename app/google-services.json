@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657282320015",
+    "project_id": "mvvm-signup-login",
+    "storage_bucket": "mvvm-signup-login.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657282320015:android:59871d1031a6f5dd3212fa",
+        "android_client_info": {
+          "package_name": "com.pankajkcodes.mvvmsignuplogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657282320015-vj4o8te3ajq4osi4ekr91gtn0rm6kh6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfM709CmfofVsXhMR9z5H52JFO2XfbkpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657282320015-vj4o8te3ajq4osi4ekr91gtn0rm6kh6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
